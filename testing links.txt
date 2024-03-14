@@ -1,0 +1,13 @@
+https://reflectoring.io/spring-boot-data-jpa-test/
+
+https://medium.com/java-content-hub/how-to-optimize-performance-with-spring-data-jpa-c615db786f7
+
+https://stackoverflow.com/questions/57016084/how-to-test-native-queries-in-spring-boot-application
+
+https://stackoverflow.com/questions/40278040/junit-test-if-else-case
+
+https://medium.com/thefreshwrites/migrating-from-lombok-to-records-in-java-fa2ece28bd68
+
+https://medium.com/thefreshwrites/migrating-from-lombok-to-records-in-java-fa2ece28bd68
+
+https://medium.com/@mertkagan/spring-data-rest-say-goodbye-to-controller-and-service-1acb6c7437f1
