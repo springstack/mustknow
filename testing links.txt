@@ -11,3 +11,13 @@ https://medium.com/thefreshwrites/migrating-from-lombok-to-records-in-java-fa2ec
 https://medium.com/thefreshwrites/migrating-from-lombok-to-records-in-java-fa2ece28bd68
 
 https://medium.com/@mertkagan/spring-data-rest-say-goodbye-to-controller-and-service-1acb6c7437f1
+
+https://octopus.com/blog/jenkins-running-unit-tests
+
+https://www.baeldung.com/ops/jenkins-deployment-service-start-issues
+
+https://www.geeksforgeeks.org/writing-cron-expressions-for-scheduling-tasks/
+
+https://medium.com/java-content-hub/how-to-optimize-performance-with-spring-data-jpa-c615db786f7
+
+https://www.vogella.com/tutorials/JUnit/article.html
