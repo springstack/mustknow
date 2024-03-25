@@ -15,3 +15,5 @@ https://livebook.manning.com/book/spring-batch-in-action/chapter-14/107
 https://keyholesoftware.com/spring-batch-testing-mocking-revisited-with-spring-boot/
 
 https://stackoverflow.com/questions/68117720/how-to-test-spring-batch-step-without-running-entire-job
+
+https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-writing-information-to-a-database-with-jdbc/ - spring batch using jdbc template
